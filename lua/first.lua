@@ -1,7 +1,7 @@
 --[[print("hello world!")
 a="刘秋梅"
 print(a)
-
+--修改了名字
 a=nil--]]
 -- print(type("hello"))
 -- print(type(12.3))
